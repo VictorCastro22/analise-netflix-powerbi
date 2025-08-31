@@ -1,15 +1,13 @@
 # Análise de Títulos da Netflix com Power BI
 
 ## 🎯 Objetivo do Projeto
-O objetivo deste projeto foi realizar uma análise exploratória detalhada do catálogo da Netflix, utilizando o Power BI para criar um dashboard interativo que revela insights sobre o conteúdo disponível, tendências de produção e distribuição global.
+O objetivo deste projeto foi realizar uma análise exploratória detalhada do catálogo da Netflix, utilizando o Power BI para criar um dashboard interativo sobre o conteúdo disponível.
 
 ## 🛠️ Ferramentas Utilizadas
 - **Power BI:** Para modelagem de dados, criação de visuais e o dashboard final.
-- **DAX (Data Analysis Expressions):** Para a criação de métricas e colunas calculadas.
-- **Excel/CSV:** Como fonte de dados inicial.
+- **DAX:** Para a criação de métricas e colunas calculadas.
+- **CSV:** Como fonte de dados inicial.
 
-## 📊 Fonte dos Dados
-Os dados foram obtidos a partir de um dataset público disponível no Kaggle: [link para o dataset no Kaggle, se tiver].
 
 ## 📈 Processo de Análise
 1.  **Limpeza e Tratamento:** Ajuste de tipos de dados, remoção de valores nulos e padronização das informações na base.
