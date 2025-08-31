@@ -1,6 +1,6 @@
 # Análise de Títulos da Netflix com Power BI
 
-![Dashboard da Netflix](netflix.png)
+![Dashboard da Netflix](netflix.jpg)
 
 ## 🎯 Objetivo do Projeto
 O objetivo deste projeto foi realizar uma análise exploratória detalhada do catálogo da Netflix, utilizando o Power BI para criar um dashboard interativo sobre o conteúdo disponível.
