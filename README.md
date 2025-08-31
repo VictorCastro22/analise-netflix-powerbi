@@ -1,8 +1,5 @@
 # Análise de Títulos da Netflix com Power BI
 
-![Print do seu Dashboard](coloque-o-print-do-seu-dashboard-aqui.png) 
-*(Tire um print de alta qualidade do seu dashboard e suba para o repositório)*
-
 ## 🎯 Objetivo do Projeto
 O objetivo deste projeto foi realizar uma análise exploratória detalhada do catálogo da Netflix, utilizando o Power BI para criar um dashboard interativo que revela insights sobre o conteúdo disponível, tendências de produção e distribuição global.
 
@@ -21,4 +18,4 @@ Os dados foram obtidos a partir de um dataset público disponível no Kaggle: [l
 
 ## 🔗 Dashboard Interativo
 Você pode acessar e interagir com o dashboard completo através deste link:
-**[Seu Link do Power BI Public](https://app.powerbi.com/view?r=eyJrIjoiY2UxMmI3ZmItNmQzNS00MWQxLWIyNTQtZmNmODg3MDgyZGI0IiwidCI6ImY4ZTQzYTgxLTBmNjMtNDhhNi04NWMxLWYzODM4NzRlYjYxZCJ9)**
+**(https://app.powerbi.com/view?r=eyJrIjoiY2UxMmI3ZmItNmQzNS00MWQxLWIyNTQtZmNmODg3MDgyZGI0IiwidCI6ImY4ZTQzYTgxLTBmNjMtNDhhNi04NWMxLWYzODM4NzRlYjYxZCJ9)**
